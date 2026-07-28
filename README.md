@@ -52,7 +52,7 @@ It contains employee information such as:
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard.png)
+![HR Analytics Dashboard](Dashboard.gif)
 
 ---
 
