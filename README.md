@@ -52,7 +52,299 @@ It contains employee information such as:
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard.png)
+# 🏏 IPL Analytics Dashboard | Power BI
+
+An interactive **Power BI Dashboard** that provides comprehensive insights into the Indian Premier League (IPL). This project analyzes team performance, player statistics, match outcomes, and season trends through dynamic and interactive visualizations.
+
+---
+
+# 📌 Project Overview
+
+The IPL Analytics Dashboard transforms raw IPL data into meaningful insights using **Microsoft Power BI**. It enables users to analyze team performances, player achievements, match statistics, and tournament trends through an intuitive and interactive dashboard.
+
+---
+
+# 📷 Dashboard Preview
+
+# 🏏 IPL Analytics Dashboard | Power BI
+
+An interactive **Power BI Dashboard** that provides comprehensive insights into the Indian Premier League (IPL). This project analyzes team performance, player statistics, match outcomes, and season trends through dynamic and interactive visualizations.
+
+---
+
+# 📌 Project Overview
+
+The IPL Analytics Dashboard transforms raw IPL data into meaningful insights using **Microsoft Power BI**. It enables users to analyze team performances, player achievements, match statistics, and tournament trends through an intuitive and interactive dashboard.
+
+---
+
+# 📷 Dashboard Preview
+
+![IPL Dashboard](Images/dashboard.png)
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze overall IPL performance across seasons.
+- Compare team and player statistics.
+- Identify top-performing teams and players.
+- Monitor match trends through interactive visualizations.
+- Build a user-friendly and interactive analytics dashboard.
+
+---
+
+# 📊 Dashboard Features
+
+- 📈 Interactive KPI Cards
+- 🏏 Team Performance Analysis
+- 🥇 Top Players Analysis
+- 📅 Season-wise Match Insights
+- 📍 Venue-wise Analysis
+- 🎛 Interactive Slicers & Filters
+- 📊 Dynamic Charts
+- 📌 Business-friendly Dashboard Design
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Cleaning
+- Data Visualization
+
+---
+
+# 📂 Repository Structure
+
+```text
+IPL-Analytics-Dashboard/
+│
+├── Dataset/
+│   └── IPL_Dataset.csv
+│
+├── Images/
+│   └── dashboard.png
+│
+├── IPL Dashboard.pbix
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 📊 Dataset
+
+The dashboard includes insights on:
+
+- IPL Seasons
+- Teams
+- Matches
+- Players
+- Runs
+- Wickets
+- Venues
+- Toss Winners
+- Match Winners
+- Player of the Match Awards
+
+---
+
+# 📈 Key Insights
+
+- Compare team performance across IPL seasons.
+- Identify the highest run scorers and wicket takers.
+- Analyze venue-wise match statistics.
+- Explore season-wise tournament trends.
+- Discover player and team performance through interactive filters.
+
+---
+
+# 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Power Query
+- Dashboard Design
+- KPI Development
+- Business Intelligence
+- Data Storytelling
+
+---
+
+# 🚀 Future Enhancements
+
+- Live IPL data integration
+- Predictive match analytics
+- Win probability analysis
+- Mobile-optimized dashboard
+- Advanced player comparison
+
+---
+
+# ⭐ Why This Project?
+
+This dashboard demonstrates my ability to transform sports data into actionable insights using Microsoft Power BI. It highlights my skills in data visualization, dashboard development, DAX, Power Query, and business intelligence.
+
+---
+
+# 📬 Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/kotra-chandra-prakash
+
+**GitHub:**  
+https://github.com/Chandu20036
+
+---
+
+## ⭐ If you found this project useful, please consider giving it a Star!
+
+Thank you for visiting this repository.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze overall IPL performance across seasons.
+- Compare team and player statistics.
+- Identify top-performing teams and players.
+- Monitor match trends through interactive visualizations.
+- Build a user-friendly and interactive analytics dashboard.
+
+---
+
+# 📊 Dashboard Features
+
+- 📈 Interactive KPI Cards
+- 🏏 Team Performance Analysis
+- 🥇 Top Players Analysis
+- 📅 Season-wise Match Insights
+- 📍 Venue-wise Analysis
+- 🎛 Interactive Slicers & Filters
+- 📊 Dynamic Charts
+- 📌 Business-friendly Dashboard Design
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Cleaning
+- Data Visualization
+
+---
+
+# 📂 Repository Structure
+
+```text
+IPL-Analytics-Dashboard/
+│
+├── Dataset/
+│   └── IPL_Dataset.csv
+│
+├── Images/
+│   └── dashboard.png
+│
+├── IPL Dashboard.pbix
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 📊 Dataset
+
+The dashboard includes insights on:
+
+- IPL Seasons
+- Teams
+- Matches
+- Players
+- Runs
+- Wickets
+- Venues
+- Toss Winners
+- Match Winners
+- Player of the Match Awards
+
+---
+
+# 📈 Key Insights
+
+- Compare team performance across IPL seasons.
+- Identify the highest run scorers and wicket takers.
+- Analyze venue-wise match statistics.
+- Explore season-wise tournament trends.
+- Discover player and team performance through interactive filters.
+
+---
+
+# 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Power Query
+- Dashboard Design
+- KPI Development
+- Business Intelligence
+- Data Storytelling
+
+---
+
+# 🚀 Future Enhancements
+
+- Live IPL data integration
+- Predictive match analytics
+- Win probability analysis
+- Mobile-optimized dashboard
+- Advanced player comparison
+
+---
+
+# ⭐ Why This Project?
+
+This dashboard demonstrates my ability to transform sports data into actionable insights using Microsoft Power BI. It highlights my skills in data visualization, dashboard development, DAX, Power Query, and business intelligence.
+
+---
+
+# 📬 Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/kotra-chandra-prakash
+
+**GitHub:**  
+https://github.com/Chandu20036
+
+---
+
+## ⭐ If you found this project useful, please consider giving it a Star!
+
+Thank you for visiting this repository.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
