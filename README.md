@@ -12,7 +12,7 @@ The **HR Analytics Dashboard** transforms employee data into meaningful business
 
 # 📷 Dashboard Preview
 
-![HR Analytics Dashboard](HR-Analytics-Dashboard/Dashboard.png)
+![HR Analytics Dashboard](HR-Analytics-Dashboard/HR Dashboard.gif)
 
 ---
 
