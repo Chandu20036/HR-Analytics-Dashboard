@@ -13,7 +13,7 @@ The **HR Analytics Dashboard** transforms employee data into meaningful business
 # 📷 Dashboard Preview
 
 <p align="center">
-  <img src="HR-Analytics-Dashboard/Dashboard.gif" alt="HR Analytics Dashboard" width="100%">
+  <img src="![HR Analytics Dashboard](HR-Analytics-Dashboard/Dashboard.gif)" alt="HR Analytics Dashboard" width="100%">
 </p>
 
 ---
